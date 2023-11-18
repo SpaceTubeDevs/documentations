@@ -1,3 +1,4 @@
 = Hello World
 
-* xref:linux/pages/index.adoc[Linux]
+
+xref:linux:index.adoc[Test]

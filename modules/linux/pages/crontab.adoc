@@ -1,1 +1,6 @@
 = crontab : le planificateur de tâches !
+
+[%collapsible]
+====
+This content is only revealed when the user clicks the block title.
+====

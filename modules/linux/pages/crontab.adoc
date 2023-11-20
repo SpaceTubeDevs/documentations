@@ -1,5 +1,6 @@
 = crontab : le planificateur de tâches !
 
-[source,shell]
-puts 'Take me to your clipboard!'
+[,ruby]
+----
+puts 'Hello, World!'
 ----

@@ -1,6 +1,6 @@
 = crontab : le planificateur de tâches !
 
-image::contab/ressourcescrontab.png[]
+image::contab/ressources/crontab.png[]
 [,ruby]
 ----
 puts 'Hello, World!'

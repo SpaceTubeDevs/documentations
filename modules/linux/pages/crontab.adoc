@@ -3,5 +3,5 @@
 image:crontab.png[test]
 [,ruby]
 ----
-puts 'Hello, World!'
+'Hello, World!'
 ----
